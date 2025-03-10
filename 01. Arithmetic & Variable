@@ -1,1 +1,15 @@
+"python.linting.enabled": true,
+"python.linting.pylintEnabled": true
+
+
+pip install notebook
+
+
+
+variable saves results
+'test_var' assign value
+
+```python
+test_var = 4+5
+prinnt(test_var)
 
